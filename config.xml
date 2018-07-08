@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AMPConfiguration>
+	<QA>
+
+		<Browser>chrome</Browser>
+		<ApplicationUrl>https://www.cleartrip.com/</ApplicationUrl>
+		
+	</QA>
+	<UAT>
+
+		<Browser></Browser>
+		<ApplicationUrl></ApplicationUrl>
+		<Agency></Agency>
+		<UserName></UserName>
+		<Password></Password>
+
+	</UAT>
+	
+	</AMPConfiguration>

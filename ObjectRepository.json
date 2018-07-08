@@ -1,0 +1,10 @@
+{
+
+	"DepartureAirport":["xpath","//*[@id='FromTag']"],
+		"ArrivalAirport":["xpath","//*[@id='ToTag']"],
+		"Date":["xpath","//*[@id='DepartDate']"],
+		"Continue":["xpath","//*[@id='SearchBtn']"],
+		"Rate":["xpath","//*[@id='sorterTpl']/ul/li[9]/a"]
+	
+}
+
